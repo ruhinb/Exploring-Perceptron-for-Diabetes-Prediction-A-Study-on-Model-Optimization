@@ -1,0 +1,2 @@
+# Exploring-Perceptron-for-Diabetes-Prediction-A-Study-on-Model-Optimization
+This research explores optimization of a Single Layer Perceptron for diabetes prediction using the Pima Indians Diabetes dataset. The study emphasizes the interpretability of model behavior across various configurations. The analysis demonstrates how incremental adjustments influence the model’s learning dynamics and generalization capabilities.
